@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="students1.xsl"?>
+<students>
+<student>
+<id>1</id>
+<name>Atharv</name>
+<course>Computer</course>
+</student>
+<student>
+<id>2</id>
+<name>Yash</name>
+<course>Electrical</course>
+</student>
+<student>
+<id>3</id>
+<name>Harshad</name>
+<course>ENTC</course>
+</student>
+</students>
